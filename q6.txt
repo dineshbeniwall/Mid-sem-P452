@@ -1,0 +1,3 @@
+Solution by Gauss Seidel: x = [ 1.49999728 -0.5         2.         -2.49999864  1.         -1.        ]
+Solution by Jacobi : x = [ 1.5 -0.5  2.  -2.5  1.  -1. ]
+[Finished in 0.713s]
